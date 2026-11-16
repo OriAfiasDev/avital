@@ -1,0 +1,12 @@
+# working files, not part of the brief
+_fonts/
+tools/
+mockups/
+qa/
+
+# build
+node_modules/
+dist/
+
+# macOS
+.DS_Store
